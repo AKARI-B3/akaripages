@@ -5,7 +5,7 @@ Uses "AKARI-PAY Advanced" Bitcoin Cash donate/pay tool, customizable through sim
 Start your very own open-ended Bitcoin Cash Peer-2-Peer (P2P) Micro-fundraiser today, for free, with zero fees.
 Includes goal progress, donation totals, goal levels, details about your fundraiser, and much more customization options.
 
-Instructions (10-steps or less): <A href="agf.earth/guide/akaripages">View the visual guide here</a>
+Instructions (10-steps or less): <A href="http://agf.earth/guide/akaripages">View the visual guide here</a>
 
 1. Download/clone the akaripages github repository.
 2. Create your own github or bitbucket.io accounts.
