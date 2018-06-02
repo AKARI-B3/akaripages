@@ -1,5 +1,7 @@
 # akaripages
-Free self-hosted Bitcoin Cash fundraiser pages that also function on free github.io pages or bitbucket.io pages    
+Free self-hosted Bitcoin Cash fundraiser pages that also function on free github.io pages or bitbucket.io pages<br>
+<a href="http://akari-b3.github.io/fundraiser">OUR DEMO PAGE</a> (hosted free on <a href="https://github.com/AKARI-B3/fundraiser">Github</a>)<br>
+
 Uses "AKARI-PAY Advanced" Bitcoin Cash donate/pay tool, customizable through simple text file editing.    
 <a href="https://github.com/AKARI-B3/akaripages"><img src="http://agf.earth/akari_pages_example.jpg"></a>    
 Start your very own open-ended Bitcoin Cash Peer-2-Peer (P2P) Micro-fundraiser today, for free, with zero fees.
