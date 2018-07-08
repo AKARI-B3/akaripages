@@ -1,5 +1,6 @@
 # akaripages
 UPDATE: See in-progress and completed fundraiser examples at http://bitfund.cash
+<br>
 UPDATE 2: See <a href="https://github.com/AKARI-B3/apb">APB (AKARI-PAGES BUILDER)</a> for the latest version of AKARI-PAGES, AKARI-PAY, and the Builder tool as a much easier to use 'all-in-one' bundle: https://github.com/AKARI-B3/apb
 <br>
 
