@@ -1,5 +1,7 @@
 # akaripages
 UPDATE: See in-progress and completed fundraiser examples at http://bitfund.cash
+UPDATE 2: See <a href="https://github.com/AKARI-B3/apb">APB (AKARI-PAGES BUILDER)</a> for the latest version of AKARI-PAGES, AKARI-PAY, and the Builder tool as a much easier to use 'all-in-one' bundle: https://github.com/AKARI-B3/apb
+<br>
 
 AKARI-PAGES is a free self-hosted Bitcoin Cash fundraiser page that <b>also</b> functions on free github.io pages or bitbucket.io pages that is easy to setup and customize using simple text files.<br>
 <a href="http://akari-b3.github.io/fundraiser">OUR DEMO PAGE</a> (hosted free on <a href="https://github.com/AKARI-B3/fundraiser">Github</a>)<br>
